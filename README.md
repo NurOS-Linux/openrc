@@ -1,4 +1,4 @@
-OpenRC README
+NurOS Fork OpenRC README
 =============
 
 OpenRC is a dependency-based init system that works with the
